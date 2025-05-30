@@ -15,4 +15,15 @@ Banks generate vast amounts of data every day from transactions, customer intera
 - 📉 Visualization of key banking metrics such as loan approval rates, deposit trends, and credit scores  
 - 🤖 Predictive modeling for tasks like loan default prediction and customer segmentation  
 - 🚨 Identification of potential fraud or anomalies using statistical and machine learning methods  
+Insights & Outcomes 🔎💡
+📌 Identified key factors influencing loan approval, such as credit score, income level, and employment status.
+
+📌 Detected behavioral patterns among high-value customers, aiding targeted marketing campaigns.
+
+📌 Built a loan default prediction model with high accuracy, enabling proactive risk management.
+
+📌 Visualized fraud detection patterns, helping fraud teams prioritize alerts and reduce false positives.
+
+📌 Mapped seasonal trends in deposits and withdrawals, improving forecasting and liquidity planning.
+
 
