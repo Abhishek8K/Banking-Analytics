@@ -14,8 +14,9 @@ Banks generate vast amounts of data every day from transactions, customer intera
 - 📊 Exploratory data analysis (EDA) to understand customer demographics and behavior  
 - 📉 Visualization of key banking metrics such as loan approval rates, deposit trends, and credit scores  
 - 🤖 Predictive modeling for tasks like loan default prediction and customer segmentation  
-- 🚨 Identification of potential fraud or anomalies using statistical and machine learning methods  
-Insights & Outcomes 🔎💡
+- 🚨 Identification of potential fraud or anomalies using statistical and machine learning methods
+  
+## Insights & Outcomes 🔎💡
 📌 Identified key factors influencing loan approval, such as credit score, income level, and employment status.
 
 📌 Detected behavioral patterns among high-value customers, aiding targeted marketing campaigns.
